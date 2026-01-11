@@ -17,4 +17,4 @@ For multinational corporations, PPP deviations signal cost advantages in sourcin
 ---
 
 **Tools Used**: Python, Pandas 
-** Data Source**: The Economist (2015)
+**Data Source**: The Economist (2015)

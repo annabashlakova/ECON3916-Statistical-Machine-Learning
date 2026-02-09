@@ -1,4 +1,4 @@
-## Lab 5: The Architecture of Bias  
+## Lab 6: The Architecture of Bias  
 **Investigating Data Generating Processes, Sampling Bias, and Experimental Integrity**
 
 ---

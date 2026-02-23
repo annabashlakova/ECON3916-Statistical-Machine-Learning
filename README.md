@@ -26,6 +26,12 @@ together to build models that are both **interpretable** and **powerful**.
 
 Using the course’s **Concept Extension** philosophy, I start with classical tools such as regression and hypothesis testing, and then scale them up using modern methods like **regularization, cross-validation, and machine learning algorithms**.
 
+# Concept Expansion
+
+## Decision Thresholds as Business Parameters
+
+Netflix's approach to **"Return-Aware Experimentation"** reframes statistical significance not as a fixed academic convention (`p < 0.05`) but as a flexible decision threshold calibrated to expected business returns. If the potential upside of a change is massive, Netflix may act on weaker statistical evidence; if the cost of a false positive is high, they tighten the threshold. This reflects a key insight: the *"right"* significance level is a function of stakes, not tradition. In practice, decision thresholds should be treated as **business parameters** — tuned to the cost-benefit structure of each specific experiment.
+
 ---
 
 ## 🛠️ Tech Stack
